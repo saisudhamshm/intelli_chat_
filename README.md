@@ -1,6 +1,6 @@
 # intelli_chat
 
-A new Flutter project.
+Intelli-Chat is a real-time messaging application built using Flutter and Firebase. The app offers a seamless communication experience with features like read status, last seen, and smart reply generation using on-device machine learning.
 
 ## Getting Started
 
