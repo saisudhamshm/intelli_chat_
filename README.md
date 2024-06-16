@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Setting up the project in your local environment💻
 
-1. [Clone this repository](https://github.com/Hareesh-Nandigrama/splitwise) this repository.
+1. [Clone this repository] this repository.
 2. After Cloning, open the project in android studio
 3. Create a new project on [Firebase Console](https://console.firebase.google.com/)
 4. Activate Email SignIn in Firebase auth, and activate Firebase Firestore and Firebase Storage in **test mode**.
